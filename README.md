@@ -1,4 +1,4 @@
-# ML-projects
+# ML-NeuralNet-Alzheimer
 --------------------------------------------------------------------------
 Alzheimer_neural_net is a continuation of a project that is available on kaggle.com
 https://www.kaggle.com/hyunseokc/detecting-early-alzheimer-s
